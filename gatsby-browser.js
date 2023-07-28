@@ -1,5 +1,3 @@
-// custom typefaces
-import "@fontsource/victor-mono"
 // normalize CSS across browsers
 import "./src/normalize.css"
 // custom CSS styles

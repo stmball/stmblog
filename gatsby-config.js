@@ -8,6 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/stmblog",
   siteMetadata: {
     title: `stmblog`,
     author: {
@@ -15,7 +16,7 @@ module.exports = {
       summary: `: PhD student in AI, among other things.`,
     },
     description: `A place to write more about stuff.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://stmball.com/stmblog`,
     social: {
       twitter: `stmball`,
     },
@@ -102,7 +103,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "stmblog RSS Feed",
           },
         ],
       },

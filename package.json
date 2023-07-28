@@ -1,15 +1,13 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "stmblog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Gatsby based blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Sam Ball <stmball@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://stmball.com/stmblog"
   },
   "dependencies": {
-    "@fontsource-variable/montserrat": "^5.0.4",
-    "@fontsource/merriweather": "^5.0.3",
     "@fontsource/victor-mono": "^5.0.5",
     "gatsby": "^5.11.0",
     "gatsby-plugin-feed": "^5.11.0",

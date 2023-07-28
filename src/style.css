@@ -1,4 +1,5 @@
 /* CSS Custom Properties Definitions */
+@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap');
 
 :root {
   --maxWidth-none: "none";
@@ -35,7 +36,7 @@
     Times, serif;
   --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
-  --fontWeight-normal: 400;
+  --fontWeight-normal: 200;
   --fontWeight-bold: 700;
   --fontWeight-black: 900;
   --fontSize-root: 16px;
